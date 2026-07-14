@@ -1,4 +1,4 @@
-# DCSASS – YOLO-Based Video Surveillance Activity Detection
+<img width="967" height="577" alt="image" src="https://github.com/user-attachments/assets/b2d32e81-af81-412a-8181-dc9104a02099" /># DCSASS – YOLO-Based Video Surveillance Activity Detection
 
 This project implements an AI-powered Video Analytics System using YOLOv11 to detect critical surveillance activities in real-time:
 
@@ -22,6 +22,9 @@ The notebook contains a complete end-to-end workflow, including dataset preparat
 ## Dataset Used
 - DCSASS (Dataset for Crime Activity Surveillance Systems)
 - Out of which 5 classes are been used: Explosion , Vandalism , Shooting , Stealing & Road Accidents to train the model.
+
+## Result 
+<img width="967" height="577" alt="image" src="https://github.com/user-attachments/assets/5879e6df-f357-458c-b6c7-e8481aecf8b3" />
 
 
 
