@@ -1,4 +1,4 @@
-<img width="967" height="577" alt="image" src="https://github.com/user-attachments/assets/b2d32e81-af81-412a-8181-dc9104a02099" /># DCSASS – YOLO-Based Video Surveillance Activity Detection
+# DCSASS – YOLO-Based Video Surveillance Activity Detection
 
 This project implements an AI-powered Video Analytics System using YOLOv11 to detect critical surveillance activities in real-time:
 
